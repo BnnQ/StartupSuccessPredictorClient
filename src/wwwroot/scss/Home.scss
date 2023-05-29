@@ -1,0 +1,35 @@
+#body {
+  background-image: url('https://logomaster.ai/hubfs/hero-background.png');
+  background-position: center;
+
+  color: #6a6d77;
+}
+
+.intro {
+  text-align: center;
+}
+
+.intro-overline {
+  font-size: 1.22rem;
+  margin-bottom: 10px;
+}
+
+.intro-description {
+  width: 100%;
+  max-width: 560px;
+}
+
+.intro-title {
+  font-size: 3.78rem !important;
+}
+
+@import "variables";
+.divider {
+  background: $gradient-primary;
+  border-radius: 4px;
+  display: inline-block;
+  height: 4px;
+  max-width: 100%;
+  vertical-align: top;
+  width: 80px;
+}
