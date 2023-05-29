@@ -1,0 +1,6 @@
+@import "variables";
+span {
+  background: $gradient-primary;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
