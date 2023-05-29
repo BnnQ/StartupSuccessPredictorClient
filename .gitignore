@@ -502,4 +502,5 @@ sketch
 .idea/
 
 #SCSS
-*.map
+src/wwwroot/scss/*.map
+src/wwwroot/scss/*.css
