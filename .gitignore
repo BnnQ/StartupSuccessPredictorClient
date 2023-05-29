@@ -500,3 +500,6 @@ sketch
 
 #JetBrains
 .idea/
+
+#SCSS
+*.map
